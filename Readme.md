@@ -1,12 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7971E,100:FFD200&height=200&section=header&text=Asish%20Kumar%20Nayak%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7971E,100:FFD200&height=200&section=header&text=Hii%There%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="banner"/>
 </p>
 
 # 👋 Hello, I'm Asish Kumar Nayak  
 
 ## 🚀 About Me  
-- 💻 I find myself coding often  
+- 💻 A Full-Stack Developer passionate about creating innovative web applications.
 - 🤖 Currently learning **AI (Machine & Deep Learning)**  
 - 🎨 Love creating **3D art and visuals**  
 
