@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7971E,100:FFD200&height=200&section=header&text=Hii%There%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7971E,100:FFD200&height=200&section=header&text=Hii%20There%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="banner"/>
 </p>
 
 # 👋 Hello, I'm Asish Kumar Nayak  
