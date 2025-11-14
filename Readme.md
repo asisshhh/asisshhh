@@ -3,10 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7971E,100:FFD200&height=200&section=header&text=Hii%20There%20👋🧑‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="banner"/>
 </p>
 
-# 👋 Hello, I'm Asish Kumar Nayak  
+# My Name is Asish Kumar Nayak 🫱🏻‍🫲🏻
+![ProposeGIF](https://github.com/user-attachments/assets/a7affd2c-d4b4-49b9-b757-5b6aec48df3a)
+
 
 ## 🚀 About Me  
-- 💻 A Full-Stack Developer passionate about creating innovative web applications.
+- 💻 A Full-Stack Developer passionate about creating innovative web applications and Mobile application.
 - 🤖 Currently learning **AI (Machine & Deep Learning)**  
 - 🎨 Love creating **3D art and visuals**  
 
