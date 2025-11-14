@@ -4,7 +4,7 @@
 </p>
 
 # 👋 Hey, I'm **Asish Kumar Nayak**
-### 🚀 *Backend Engineer | Full-Stack Developer | AI/ML Explorer*
+🚀 *Backend Engineer | Full-Stack Developer | AI/ML Explorer*
 
 ---
 
@@ -104,7 +104,10 @@ I love solving complex engineering problems, designing efficient architectures, 
 [![Google Developer](https://img.shields.io/badge/-Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/asish07)
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD200,100:F7971E&height=100&section=footer" />
+✨ *Thanks for visiting!* 🙌
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=asisshhh&label=Visitors&color=FFD200&style=for-the-badge" />
+  <br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Made%20with%20❤️%20by%20Asish&fontSize=22&color=0:FFD200,100:F7971E&fontColor=ffffff&animation=fadeIn" />
 </p>
+
