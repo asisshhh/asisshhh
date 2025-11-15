@@ -3,8 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7971E,100:FFD200&height=200&section=header&text=Hii%20There%20👋🧑‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-# 👋 Hey, I'm **Asish Kumar Nayak**
-🚀 *Backend Engineer | Full-Stack Developer | AI/ML Explorer*
+# I'm **Asish Kumar Nayak**
+*Backend Engineer | Full-Stack Developer | AI/ML Explorer*
 
 ---
 
